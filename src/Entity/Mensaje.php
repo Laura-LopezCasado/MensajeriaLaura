@@ -1,0 +1,2 @@
+<?php
+//Entidad mensajes
